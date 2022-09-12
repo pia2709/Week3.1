@@ -1,0 +1,34 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.container div{
+    border: 20px solid rgba(128, 128, 128, 0.4);
+    padding: 10px;
+    background-color: rgba(159, 194, 181, 0.5);
+    box-sizing: border-box;
+}
+
+#floatwrap div{
+
+}
+
+.clear{
+
+}
+
+#flexwrap{
+
+}
+
+#flexwrap div{
+
+}
+
+#gridwrap{
+
+}
+#gridwrap .special{
+    
+}
